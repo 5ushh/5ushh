@@ -1,5 +1,5 @@
 - 👋 Hey, I’m sushmitha
-- 👀 I’m interested in ... Reading, Travelling, Tech-inspired fashion & collecting quirky socks (seriously, it’s a thing!)
+- 👀 I’m interested in ... Reading, Travelling, Tech-inspired fashion 
 - 🌱 Master’s Student in Computer Engineering @ NYU 
 - 📫 How to reach me ... sv3005@nyu.edu
 <!---

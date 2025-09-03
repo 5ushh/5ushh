@@ -20,7 +20,7 @@ const Sushmitha = {
   status: "Active on GitHub",
   
   contribute: function(pr) {
-    return pr.accepted ? "Merged ✅" : "Needs Review 🔍";
+    return pr.accepted ? "Merged" : "Needs Review";
   }
 };
 

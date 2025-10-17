@@ -7,7 +7,7 @@
 ---
 
 ### 🧠 About Me
-I believe technology should extend what humans can do, not overshadow it. My goal is to craft systems that bring clarity to data, purpose to design, and empathy to every interaction.
+I believe technology should amplify human capability, not replace it. My goal is to craft systems that bring clarity to data, purpose to design, and empathy to every interaction.
 
 ---
 

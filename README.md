@@ -7,8 +7,7 @@
 ---
 
 ### 🧠 About Me
-I’m a curious engineer who loves connecting intelligence and usability — from machine-learning-powered platforms to data-driven web applications.  
-My work revolves around turning real-world problems into elegant, explainable, and scalable tech solutions.
+I believe technology should extend what humans can do, not overshadow it. My goal is to craft systems that bring clarity to data, purpose to design, and empathy to every interaction.
 
 ---
 

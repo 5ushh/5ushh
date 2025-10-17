@@ -1,7 +1,7 @@
 👋 Hey, I’m sushmitha :)
 
  MS in Computer Engineering @ **NYU Tandon**  
- Focus: **AI/ML**, **Full-Stack Development**, **Data Engineering**, **Cloud & Embedded Systems**  
+ Focus: **ML**, **Full-Stack Development**, **Data Engineering**, **Cloud & Embedded Systems**  
  Passionate about building scalable, intelligent systems that combine data, design, and engineering.
 
 ---

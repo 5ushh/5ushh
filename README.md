@@ -1,38 +1,38 @@
-👋 Hey, I’m sushmitha :)
+👋 Hey, I'm Sushmitha
 
- MS in Computer Engineering @ **NYU Tandon**  
- Focus:**Full-Stack Development**, **ML**, **Data Engineering**, **Cloud & Embedded Systems**  
- Passionate about building scalable, intelligent systems that combine data, design, and engineering.
-
----
-
-### 🧠 About Me
-I believe technology should amplify human capability, not replace it. My goal is to craft systems that bring clarity to data, purpose to design, and empathy to every interaction.
+MS in Computer Engineering @ **NYU Tandon** (May 2026)
+Focus: **ML Engineering** · **Data Engineering** · **Backend Systems** · **Cloud**
+Open to full-time ML Engineer / Software Engineer roles from June 2026.
 
 ---
 
-### ⚙️ 5ushh API (v2.5.0)
-```js
+### ⚙️ Sushmitha API (v2.5.0)
+
+```javascript
 const Sushmitha = {
   alias: "5ushh",
-  languages: ["Python", "C/C++", "SQL", "JavaScript", "PHP", "R", "Matlab"],
-  frameworks: ["Flask", "Django", "React", "Node.js", "REST APIs"],
-  ml_tools: ["TensorFlow", "PyTorch", "Scikit-learn"],
-  data_tools: ["Apache Spark", "Hadoop", "AWS", "GCP", "Docker"],
-  interests: [
-    "Machine Learning & Data Engineering",
-    "Full-Stack Systems Design",
-    "Cloud Integration & Scalability",
-    "Algorithmic Optimization",
-    "Visualization & Analytics"
-  ],
-  status: "Active on GitHub",
-  contribute(pr) {
-    return pr.accepted ? "Merged ✅" : "Under Review 🧩";
-  }
+  languages: ["Python", "SQL", "Java", "JavaScript", "C/C++"],
+  ml_stack: ["Scikit-learn", "Pandas", "NumPy", "NLP", "Feature Engineering"],
+  backend: ["Flask", "FastAPI", "REST APIs", "Microservices"],
+  data_tools: ["ETL Pipelines", "Data Modeling", "PostgreSQL", "MongoDB"],
+  cloud_devops: ["AWS (EC2, S3)", "Docker", "Linux", "CI/CD", "Git"],
+  currently_building: "ML pipelines and scalable backend systems",
+  status: "Actively job hunting 🟢",
+  contact: "sushmithavashist@gmail.com"
 };
+```
 
+---
 
-// Example usage
-import { domains } from "5ushh";
-console.log(domains);
+### 🔭 Featured Projects
+
+| Project | What it does | Stack |
+|---------|-------------|-------|
+| [fake-account-detector](https://github.com/5ushh/fake-account-detector) | NLP-based fraud detection — 84% accuracy on 10K+ accounts (KSCST-funded) | Python, Scikit-learn, NLP |
+| [iot-health-monitor](https://github.com/5ushh/iot-health-monitor) | Real-time IoT sensor pipeline streaming 2K+ events/day | ESP32, MQTT, Python, AWS |
+| [bigmart-sales-predictor](https://github.com/5ushh/bigmart-sales-predictor) | Retail sales forecasting — 18% accuracy improvement over baseline | Python, Pandas, ML |
+| [devmart](https://github.com/5ushh/devmart) | Full-stack developer tools marketplace | JavaScript, Node.js |
+
+---
+
+📫 [sushmithavashist@gmail.com](mailto:sushmithavashist@gmail.com) · [LinkedIn](https://linkedin.com/in/sushmitha-vashist-5a4a3022a) · [Portfolio](https://5ushh.github.io)

@@ -1,6 +1,6 @@
 👋 Hey, I'm Sushmitha
 
-MS in Computer Engineering @ **NYU Tandon** (May 2026)
+MS in Computer Engineering @ **NYU Tandon**
 Focus: **ML Engineering** · **Data Engineering** · **Backend Systems** · **Cloud**
 Open to full-time ML Engineer / Software Engineer roles from June 2026.
 

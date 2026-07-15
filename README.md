@@ -35,4 +35,4 @@ const Sushmitha = {
 
 ---
 
-📫 [sushmithavashist@gmail.com](mailto:sushmithavashist@gmail.com) ·  [Portfolio](https://5ushh.github.io)
+📫 [sushmithavashiw@gmail.com](mailto:sushmithavashist@gmail.com) ·  [Portfolio](https://5ushh.github.io)

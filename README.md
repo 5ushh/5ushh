@@ -28,7 +28,7 @@ const Sushmitha = {
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
-| [nyc-transit-accessibility-navigator]([https://github.com/5ushh/fake-account-detector](https://github.com/5ushh/nyc-transit-accessibility-navigator)) | Wayfinding tool for all 496 NYC subway stations with ADA routing | React, FastAPI, Python |
+| [nyc-transit-accessibility-navigator](https://github.com/5ushh/nyc-transit-accessibility-navigator) | Wayfinding tool for all 496 NYC subway stations with ADA routing | React, FastAPI, Python |
 | [iot-health-monitor](https://github.com/5ushh/iot-health-monitor) | Real-time IoT sensor pipeline streaming 2K+ events/day | ESP32, MQTT, Python, AWS |
 | [bigmart-sales-predictor](https://github.com/5ushh/bigmart-sales-predictor) | Retail sales forecasting — 18% accuracy improvement over baseline | Python, Pandas, ML |
 | [devmart](https://github.com/5ushh/devmart) | Full-stack developer tools marketplace | JavaScript, Node.js |

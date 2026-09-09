@@ -1,7 +1,7 @@
 👋 Hey, I'm Sushmitha
 
 MS in Computer Engineering @ **NYU Tandon**
-Focus: **ML Engineering** · **Data Engineering** · **Backend Systems** · **Cloud**
+Focus: **AI Engineering** · **Data Engineering/ Analyst** · **Backend Systems** · **Cloud**
 Open to full-time AI Engineer / Forward Deployed Engineer / Full-Stack roles from September 2026.
 
 ---

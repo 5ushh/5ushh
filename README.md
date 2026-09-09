@@ -2,7 +2,7 @@
 
 MS in Computer Engineering @ **NYU Tandon**
 Focus: **ML Engineering** · **Data Engineering** · **Backend Systems** · **Cloud**
-Open to full-time ML Engineer / Software Engineer roles from June 2026.
+Open to full-time AI Engineer / Forward Deployed Engineer / Full-Stack roles from September 2026.
 
 ---
 

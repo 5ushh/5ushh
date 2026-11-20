@@ -2,7 +2,8 @@
 
 MS in Computer Engineering @ **NYU Tandon**
 Focus: **AI Engineering** · **Data Engineering/ Analyst** · **Backend Systems** · **Cloud**
-Open to full-time AI Engineer / Forward Deployed Engineer / Full-Stack roles from September 2026.
+I’m a software developer with 1.5 years of professional experience and an MS in Computer Engineering from NYU Tandon. I build full-stack web apps and AI systems, with a focus on LLMs and RAG.
+Open to full-time AI Engineer, Forward Deployed Engineer, and Full-Stack roles.
 
 ---
 
